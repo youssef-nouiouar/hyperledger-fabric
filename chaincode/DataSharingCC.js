@@ -1,9 +1,6 @@
 
 /**
  * DataSharingCC - Chaincode pour la gestion du partage de datasets
- * Hyperledger Fabric Chaincode pour le projet de Master
- * remarque : (ajouter des statistiques, pour modules)
- * je pense que le ce chaincode est complet, il propose toutes les fonctionnalités nécessaires pour la gestion des dataste
  */
 
 'use strict';
